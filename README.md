@@ -6,7 +6,7 @@ project site.
 ## My Environment
 
 * Windows 10 Pro
-* JDK 19
+* JDK 11
 * Maven v3.8.7
 
 ## Building the project
